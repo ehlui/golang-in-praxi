@@ -1,5 +1,7 @@
 package main
 
+//Executable commands must always use package main
+
 // Imports must be used , if not the compiler will raise an error
 import (
 	"fmt"          // normal import with the package name. E.G. fmt.Println("Geous")
